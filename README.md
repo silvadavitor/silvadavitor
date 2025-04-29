@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 I'm currently pursuing a **Bachelor's degree in Computer Science**.  
-- 🌱 I'm learning **Python, Java, AWS, DevOps, AI, and Machine Learning**.  
+- 🌱 I'm learning **AI, and Machine Learning**.  
 - 🏆 Certified in **AWS DevOps Engineer, AWS Solutions Architect Associate, and AWS Certified Cloud Practitioner**.  
 - 📢 Feel free to contact me: **silvadavitor999@gmail.com**.
 
