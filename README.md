@@ -15,6 +15,11 @@
 - 📢 Feel free to contact me: **silvadavitor999@gmail.com**.
 
 ---
+## 💻 Contribuições Open Source
+
+- [Typebot PR #2148](https://github.com/baptisteArno/typebot/pull/2148) – Corrigi um problema de bind com IPv6 e adicionei suporte à variável `HOSTNAME`.
+  
+---
 
 ## 🌐 Connect with Me
 <p align="left">
