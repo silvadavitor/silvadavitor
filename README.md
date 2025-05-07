@@ -17,7 +17,7 @@
 ---
 ## 💻 Contribuições Open Source
 
-- [Typebot PR #2148](https://github.com/baptisteArno/typebot/pull/2148) – Corrigi um problema de bind com IPv6 e adicionei suporte à variável `HOSTNAME`.
+- [Typebot PR #2148](https://github.com/baptisteArno/typebot.io/pull/2148) – Corrigi um problema de bind com IPv6 e adicionei suporte à variável `HOSTNAME`.
   
 ---
 
